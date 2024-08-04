@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel task manager
+## About Laravel Image Manager
 
-Laravel task manager is a open source project about Image Manager.
+Laravel Image Manager is an open-source project about Image Managment.
 
 ## Description
 
